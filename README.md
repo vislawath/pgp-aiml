@@ -9,7 +9,7 @@ Perform an exploratory data analysis and provide actionable insights for a food 
   - Univariate Analysis 
   - Bivariate Analysis
   
-[FoodHub.html](projects/FoodHub.html)
+[FoodHub_python.ipynb](projects/FoodHub_python.ipynb)
 
 ----------
 ## Personal Loan Campaign using Machine Learning
@@ -23,7 +23,7 @@ To identify bank customers with a high likelihood of purchasing a loan, you need
 - Model building - Decision Tree
 - Model Performance Evaluation and Improvement
 
-[Personal Loan Campaign.html](projects/Personal%20Loan%20Campaign.html)
+[PersonalLoanCampaign_ML.ipynb](projects/PersonalLoanCampaign_ML.ipynb)
 
 -------
 ### EasyVisa using Advanced Machine Learning
@@ -39,6 +39,6 @@ Analyze the data of Visa applicants, build a predictive model to facilitate the 
 - Stacking Classifier
 - Hyperparameter Tuning
 
-[EasyVisa.html](projects/EasyVisa.html)
+[EasyVisa_AML.ipynb](projects/EasyVisa_AML.ipynb)
 
 -------
